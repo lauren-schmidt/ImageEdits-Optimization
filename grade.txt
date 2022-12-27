@@ -1,0 +1,3 @@
+Good performance improvement using multiple techniques: 30/30
+Excellent report: 28
+In smooth Tried inlining and loop interchange; did not try blocking. Could this do better than loop interchange? 
